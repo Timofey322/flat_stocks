@@ -1,0 +1,104 @@
+[
+  {
+    "period_end": "2025-04-27",
+    "fiscal_year": 2026,
+    "fiscal_quarter": "Q1",
+    "total_revenue": 44062000000,
+    "operating_income": 21638000000,
+    "net_income": 18775000000,
+    "operating_expenses": 5034000000
+  },
+  {
+    "period_end": "2025-01-26",
+    "fiscal_year": 2025,
+    "fiscal_quarter": "Q4",
+    "total_revenue": 39331000000,
+    "operating_income": 24034000000,
+    "net_income": 22091000000,
+    "operating_expenses": 4689000000,
+    "cash_and_equivalents": 8589000000,
+    "marketable_securities": 34621000000,
+    "total_debt": 8463000000,
+    "shares_outstanding": 24456668546,
+    "operating_cashflow": 64089000000,
+    "capital_expenditures": 3236000000
+  },
+  {
+    "period_end": "2024-10-27",
+    "fiscal_year": 2025,
+    "fiscal_quarter": "Q3",
+    "total_revenue": 35082000000,
+    "operating_income": 21869000000,
+    "net_income": 19309000000,
+    "operating_expenses": 4287000000
+  },
+  {
+    "period_end": "2024-07-28",
+    "fiscal_year": 2025,
+    "fiscal_quarter": "Q2",
+    "total_revenue": 30040000000,
+    "operating_income": 18642000000,
+    "net_income": 16599000000,
+    "operating_expenses": 3928000000
+  },
+  {
+    "period_end": "2024-04-28",
+    "fiscal_year": 2025,
+    "fiscal_quarter": "Q1",
+    "total_revenue": 26044000000,
+    "operating_income": 16909000000,
+    "net_income": 14881000000,
+    "operating_expenses": 3524000000
+  },
+  {
+    "period_end": "2024-01-28",
+    "fiscal_year": 2024,
+    "fiscal_quarter": "Q4",
+    "total_revenue": 22103000000,
+    "operating_income": 13615000000,
+    "net_income": 12285000000,
+    "operating_expenses": 3176000000,
+    "cash_and_equivalents": 7280000000,
+    "marketable_securities": 18704000000,
+    "total_debt": 9709000000,
+    "shares_outstanding": 24804000000,
+    "operating_cashflow": 28090000000,
+    "capital_expenditures": 1069000000
+  },
+  {
+    "period_end": "2023-10-29",
+    "fiscal_year": 2024,
+    "fiscal_quarter": "Q3",
+    "total_revenue": 18120000000,
+    "operating_income": 10417000000,
+    "net_income": 9243000000,
+    "operating_expenses": 2983000000
+  },
+  {
+    "period_end": "2023-07-30",
+    "fiscal_year": 2024,
+    "fiscal_quarter": "Q2",
+    "total_revenue": 13507000000,
+    "operating_income": 6800000000,
+    "net_income": 6188000000,
+    "operating_expenses": 2891000000
+  },
+  {
+    "period_end": "2023-04-30",
+    "fiscal_year": 2024,
+    "fiscal_quarter": "Q1",
+    "total_revenue": 7192000000,
+    "operating_income": 2140000000,
+    "net_income": 2043000000,
+    "operating_expenses": 2662000000
+  },
+  {
+    "period_end": "2023-01-29",
+    "fiscal_year": 2023,
+    "fiscal_quarter": "Q4",
+    "total_revenue": 6051000000,
+    "operating_income": 1257000000,
+    "net_income": 1414000000,
+    "operating_expenses": 2576000000
+  }
+]

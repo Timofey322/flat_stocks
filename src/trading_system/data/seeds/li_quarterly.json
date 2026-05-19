@@ -1,0 +1,81 @@
+[
+  {
+    "period_end": "2025-12-31",
+    "fiscal_year": 2025,
+    "fiscal_quarter": "Q4",
+    "total_revenue": 4100000000,
+    "operating_income": -63000000,
+    "net_income": 3000000,
+    "cash_and_equivalents": 14500000000,
+    "shares_outstanding": 1671855018,
+    "operating_cashflow": 489000000,
+    "capital_expenditures": 146000000
+  },
+  {
+    "period_end": "2025-09-30",
+    "fiscal_year": 2025,
+    "fiscal_quarter": "Q3",
+    "total_revenue": 3800000000,
+    "operating_income": -165000000,
+    "net_income": -87000000,
+    "cash_and_equivalents": 13900000000,
+    "shares_outstanding": 1671855018
+  },
+  {
+    "period_end": "2025-06-30",
+    "fiscal_year": 2025,
+    "fiscal_quarter": "Q2",
+    "total_revenue": 4200000000,
+    "operating_income": 115000000,
+    "net_income": 110000000,
+    "shares_outstanding": 1671855018
+  },
+  {
+    "period_end": "2025-03-31",
+    "fiscal_year": 2025,
+    "fiscal_quarter": "Q1",
+    "total_revenue": 3600000000,
+    "operating_income": 37000000,
+    "net_income": 6000000,
+    "shares_outstanding": 1651894442
+  },
+  {
+    "period_end": "2024-12-31",
+    "fiscal_year": 2024,
+    "fiscal_quarter": "Q4",
+    "total_revenue": 6100000000,
+    "operating_income": 514000000,
+    "net_income": 487000000,
+    "cash_and_equivalents": 12000000000,
+    "shares_outstanding": 1651894442,
+    "operating_cashflow": 1205000000,
+    "capital_expenditures": 890000000
+  },
+  {
+    "period_end": "2024-09-30",
+    "fiscal_year": 2024,
+    "fiscal_quarter": "Q3",
+    "total_revenue": 5960000000,
+    "operating_income": 476000000,
+    "net_income": 392000000,
+    "shares_outstanding": 1651894442
+  },
+  {
+    "period_end": "2024-06-30",
+    "fiscal_year": 2024,
+    "fiscal_quarter": "Q2",
+    "total_revenue": 4400000000,
+    "operating_income": 64000000,
+    "net_income": 152000000,
+    "shares_outstanding": 1651894442
+  },
+  {
+    "period_end": "2024-03-31",
+    "fiscal_year": 2024,
+    "fiscal_quarter": "Q1",
+    "total_revenue": 3600000000,
+    "operating_income": -81000000,
+    "net_income": 590000000,
+    "shares_outstanding": 1651894442
+  }
+]
